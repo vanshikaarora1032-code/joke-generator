@@ -38,4 +38,5 @@ This project is perfect for:
 - **JavaScript** – Logic & API handling  
 
 ---
-screenshot(Screenshot_28-12-2025_134633_127.0.0.1.jpeg)
+## 📸 Screenshot
+![Random Joke Generator](Screenshot_28-12-2025_134633_127.0.0.1.jpeg)

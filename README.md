@@ -5,11 +5,6 @@ The app fetches jokes from a live API and displays them in a modern, colorful, a
 
 ---
 
-## 🚀 Live Demo
-_(Add GitHub Pages link here after enabling it)_
-
----
-
 ## 📖 About the Project
 
 The **Random Joke Generator** is a simple frontend project that demonstrates how to work with **APIs** using JavaScript.  

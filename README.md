@@ -39,4 +39,4 @@ This project is perfect for:
 
 ---
 ## 📸 Screenshot
-![Random Joke Generator](Screenshot_28-12-2025_134633_127.0.0.1.jpeg)
+![Random Joke Generator](Screenshot_28-12-2025_18534_127.0.0.1.jpeg)
